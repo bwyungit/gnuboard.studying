@@ -10,3 +10,5 @@ print("naver", "kakao", "samsung", sep="@#$#$%,")
 print("first");print("second")
 print("first", end=""); print("second")
 print(5/3)
+
+print("깃허브 어떻게 사용할까?")
