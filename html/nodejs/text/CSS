@@ -1,7 +1,0 @@
-<p>css is a tools for decoration web page _www </p>
-
-<p>Cascading Style Sheets ( CSS ) is a style sheet language for describing how documents written in HTML or XML (including XML's dialects SVG and XHTML ) are displayed . CSS specifies how an element should be rendered on screen, paper, sound, or other medium.</p>
-
-<p>CSS is one of the core languages ​​of the open web , and the W3C specification serves as a standard for various browsers. In the past, the various parts of the CSS specification were developed sequentially, allowing versions such as CSS1, CSS2.1, and CSS3. However, the official version will not go up to CSS4.</p>
-
-<p>Since CSS3, as the scope of the CSS specification has expanded tremendously, the differences between the various CSS modules have become too large. So now it is more effective to develop and publish recommendations by module . The W3C no longer releases versions of the CSS specification, but instead creates snapshots of the stable version of the CSS specification on a periodic basis.</p>
